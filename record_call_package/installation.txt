@@ -1,0 +1,3 @@
+To install this package into your local Ciao system, paste the folder
+'record_call' into the 'bndls/ciaodbg/lib/' directory and recompile
+Ciao.
